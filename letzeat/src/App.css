@@ -1,0 +1,130 @@
+
+.App {
+  text-align: center;
+}
+.About {
+text-align: center
+}
+.App-logo {
+  animation: App-logo-spin 1s;
+  height: 30vmin;
+  pointer-events: none;
+}
+.App-body{
+  background-image: url('./ZeatHomepage0.jpg');
+  background-color: #282c34;
+  background-position: center;
+  min-height: 90vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.App-header {
+  
+  margin-bottom: 50px;
+  
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+ 
+.example{
+  width: 50%;
+  height: 50%;
+  display: flex;
+  flex-direction: column; 
+  align-items: center;
+  justify-content: center;
+}
+ .Form{
+   margin: 50px, 50px, 50px, 50px;
+ }
+ 
+ .About{
+  background-color: #282c34;
+  min-height: 100vh;
+
+ }
+.About-heading{
+  background-color: #282c34;
+
+  min-height: 50vh;
+  background-image: url('./LetzEatlogo.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  
+}
+.About-pic1{
+  display:flex;
+  min-height: 25vh;
+  background-repeat: no-repeat;
+  background-image: url("https://drop.ndtv.com/albums/COOKS/pasta-vegetarian/pastaveg_640x480.jpg");
+}
+ .About-section{
+   color: red;
+   
+   font-size: 30px;
+   text-align: center;
+ }
+
+ .About-summary{
+   margin-top: 50px;
+   width: 1000px;
+   color: white;
+ }
+
+ .About-panel1{
+   background-color: red;
+  margin-top: 55px;
+   
+ }
+
+ .About-panel2{
+   background-color: #ffcc00f3;
+ }
+ .Menu{
+  background-color: #282c34;
+  min-height: 100vh;
+
+ }
+.Menu-heading{
+  background-color: #282c34;
+  align-content: center;
+  min-height: 50vh;
+  background-image: url('./LetzEatlogo.jpg');
+  background-repeat: no-repeat;
+  
+}
+ 
+ .navbar{
+  display: inline;
+  position: fixed; 
+  top: 0;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
