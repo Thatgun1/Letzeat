@@ -19,14 +19,15 @@ const AboutPage = () => {
         </container> */}
         {/* <div className="About-summary"> */}
         <div className="About-panel1">
-        <div className="About-pic1"><p style={{float: "right"}}>LetzEat is a fresh, new concept for a cooking class…
+            <p className="Para-1">LetzEat is a fresh, new concept for a cooking class…
              It has been designed to show you how create great tasting food in a simple and easy-to-
             understand way. All ingredients are readily available at any local supermarket, there is no
-            special equipment needed (a stove, an oven and a microwave).</p></div>
+            special equipment needed (a stove, an oven and a microwave0).</p>
+        <div className="About-pic1"></div>
         
         </div>
         
-        <div className="About-pic2"></div>  
+          
             
             {/* </div> */}
             <div className="About-panel2">

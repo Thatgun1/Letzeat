@@ -76,10 +76,10 @@ text-align: center
   
 }
 .About-pic1{
-  display:flex;
- min-height: 25vh;
   background-repeat: no-repeat;
   background-image: url("https://drop.ndtv.com/albums/COOKS/pasta-vegetarian/pastaveg_640x480.jpg");
+  height: 250px;
+  width: 370px;
 }
  
 
@@ -98,7 +98,8 @@ text-align: center
 
  .About-panel1{
    background-color: red;
-  margin-top: 55px;
+   height: 200px;
+   width: 100%;
    
  }
 
@@ -129,4 +130,10 @@ text-align: center
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
+}
+
+.Para-1{
+  float: right;
+  margin-left: 350px;
+  text-align: right;
 }
