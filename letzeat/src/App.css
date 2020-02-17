@@ -2,9 +2,7 @@
 .App {
   text-align: center;
 }
-.About {
-text-align: center
-}
+
 .App-logo {
   animation: App-logo-spin 1s;
   height: 30vmin;
@@ -12,9 +10,11 @@ text-align: center
 }
 .App-body{
   background-image: url('./ZeatHomepage0.jpg');
+  background-repeat: no-repeat;
   background-color: #282c34;
   background-position: center;
   min-height: 90vh;
+  width: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -26,8 +26,8 @@ text-align: center
 }
 .App-header {
   
-  margin-bottom: 50px;
-  
+  height: 110px;
+  background-color: #282c34;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -64,7 +64,7 @@ text-align: center
  .About{
   background-color: #282c34;
   min-height: 100vh;
-
+    
  }
 .About-heading{
   background-color: #282c34;
@@ -75,37 +75,17 @@ text-align: center
   background-position: center;
   
 }
-.About-pic1{
-  background-repeat: no-repeat;
-  background-image: url("https://drop.ndtv.com/albums/COOKS/pasta-vegetarian/pastaveg_640x480.jpg");
-  height: 250px;
-  width: 370px;
-}
+
  
+.Calendar {
+  background-color: #282c34;
+  height: 100%;
 
-.About-section{
-   color: red;
-   
-   font-size: 30px;
-   text-align: center;
- }
+}
 
- .About-summary{
-   margin-top: 50px;
-   width: 1000px;
-   color: white;
- }
 
- .About-panel1{
-   background-color: red;
-   height: 200px;
-   width: 100%;
-   
- }
 
- .About-panel2{
-   background-color: #ffcc00f3;
- }
+ 
  .Menu{
   background-color: #282c34;
   min-height: 100vh;
@@ -117,7 +97,8 @@ text-align: center
   min-height: 50vh;
   background-image: url('./LetzEatlogo.jpg');
   background-repeat: no-repeat;
-  
+  background-position: center;
+
 }
  
  .navbar{
@@ -132,8 +113,4 @@ text-align: center
   font-size: 17px;
 }
 
-.Para-1{
-  float: right;
-  margin-left: 350px;
-  text-align: right;
-}
+

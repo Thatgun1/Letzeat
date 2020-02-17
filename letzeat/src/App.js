@@ -12,7 +12,7 @@ import Footer from './components/Layout/Footer'
 import MainPage from './pages';
 import CalendarPage from './pages/calendar';
 import AboutPage from './pages/about';
-import AboutJohn from './pages/John';
+import John from './pages/john';
 import ContactPage from './pages/contact';
 import MenuPage from './pages/menu';
 import NotFound from './pages/404';
@@ -28,9 +28,10 @@ function App() {
         <Route exact path="/calendar" component={CalendarPage} />
         <Route exact path="/about" component={AboutPage} />
         <Route exact path="/contact" component={ContactPage} />
-        <Route exact path="/john" component={AboutJohn} />
         <Route exact path="/menu" component={MenuPage} />
         <Route exact path="/404" component = {NotFound} />
+        <Route exact path="/john" component={John} />
+
         <Redirect to="/404" />
       </Switch>
     </Router>

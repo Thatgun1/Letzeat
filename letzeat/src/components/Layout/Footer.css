@@ -1,5 +1,6 @@
 .App-footer{
-    background:white;
-    margin-bottom: 15px;
-    margin-top: 20px;
+    background: #282c34;
+    color: red;
+    height: 80px;
+    text-align: center;
 }

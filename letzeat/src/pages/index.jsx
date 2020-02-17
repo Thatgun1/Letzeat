@@ -8,18 +8,18 @@ const MainPage = () => {
 
     return (
         <div className="App">
-    <MyNavbar />
+    
         <header className="App-header">
+        <MyNavbar />
         
-          
         </header>
-        <body className="App-body">
-        
+        <body className="App-body" style={{backgroundImage:"./ZeatHomepage0.jpg"}}>
+         
           
-       
         
         </body>
         <footer>
+        
         < Footer/>
         </footer>
       </div>

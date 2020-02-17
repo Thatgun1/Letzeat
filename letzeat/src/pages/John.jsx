@@ -2,7 +2,7 @@ import React from 'react'
 import Navbar from "../components/Layout/Navbar";
 
 
-const AboutJohn = () => {
+const John = () => {
     return (
 <div className="About">
 <header className="About-header">
@@ -16,4 +16,4 @@ const AboutJohn = () => {
 };
 
 
-export default AboutJohn;
+export default John;
