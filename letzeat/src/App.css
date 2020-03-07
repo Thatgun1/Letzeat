@@ -3,6 +3,12 @@
   text-align: center;
 }
 
+.Contact-page {
+  height: 100vh;
+  margin-top: 7.15%;
+  background-color: #282c34;
+}
+
 .App-logo {
   animation: App-logo-spin 1s;
   height: 30vmin;
