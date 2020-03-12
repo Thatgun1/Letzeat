@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Letzeat/static/css/main.7e11153f.chunk.css",
+    "main.js": "/Letzeat/static/js/main.18b5c9f3.chunk.js",
+    "main.js.map": "/Letzeat/static/js/main.18b5c9f3.chunk.js.map",
+    "runtime~main.js": "/Letzeat/static/js/runtime~main.0b81a975.js",
+    "runtime~main.js.map": "/Letzeat/static/js/runtime~main.0b81a975.js.map",
+    "static/js/2.342b315c.chunk.js": "/Letzeat/static/js/2.342b315c.chunk.js",
+    "static/js/2.342b315c.chunk.js.map": "/Letzeat/static/js/2.342b315c.chunk.js.map",
+    "index.html": "/Letzeat/index.html",
+    "precache-manifest.15877d0936ae49f618bef26feeea3e60.js": "/Letzeat/precache-manifest.15877d0936ae49f618bef26feeea3e60.js",
+    "service-worker.js": "/Letzeat/service-worker.js",
+    "static/css/main.7e11153f.chunk.css.map": "/Letzeat/static/css/main.7e11153f.chunk.css.map",
+    "static/media/Cards.css": "/Letzeat/static/media/Tenderloin.722c8dbc.jpg",
+    "static/media/App.css": "/Letzeat/static/media/ZeatHomepage0.0f8d0e23.jpg",
+    "static/media/pasta.jpg": "/Letzeat/static/media/pasta.6c861eca.jpg",
+    "static/media/quesadilla.jpg": "/Letzeat/static/media/quesadilla.e2f33b34.jpg",
+    "static/media/sandwich.jpg": "/Letzeat/static/media/sandwich.90624435.jpg",
+    "static/media/steak.jpg": "/Letzeat/static/media/steak.cf208f51.jpg"
+  }
+}
