@@ -1,0 +1,126 @@
+
+.App {
+  text-align: center;
+}
+
+.Contact-page {
+  height: 100vh;
+  background-color: #282c34;
+}
+
+
+.message-input {
+  position: absolute;
+  width:300px;
+  height: 75px;
+}
+.App-logo {
+  animation: App-logo-spin 1s;
+  height: 30vmin;
+  pointer-events: none;
+}
+.App-body{
+  background-image: url('./ZeatHomepage0.jpg');
+  background-repeat: no-repeat;
+  background-color: #282c34;
+  background-position: center;
+  min-height: 90vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.App-header {
+  
+  height: 110px;
+  background-color: #282c34;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+ 
+.example{
+  width: 50%;
+  height: 50%;
+  display: flex;
+  flex-direction: column; 
+  align-items: center;
+  justify-content: center;
+}
+ 
+ 
+ .About{
+  background-color: #282c34;
+  min-height: 100vh;
+    
+ }
+.About-heading{
+  background-color: #282c34;
+
+  min-height: 50vh;
+  background-image: url('./LetzEatlogo.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  
+}
+
+ 
+.Calendar {
+  background-color: #282c34;
+  height: 100%;
+
+}
+
+.Menu-body {
+  height: 100vh;
+  background-color: #282c34;
+
+}
+
+ 
+ 
+
+ 
+.Menu-heading{
+  background-color: #282c34;
+  height: 50vh;
+  background-image: url('./LetzEatlogo.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+
+}
+
+.navbar {
+  display: inline;
+  position: fixed; 
+  top: 0;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+
