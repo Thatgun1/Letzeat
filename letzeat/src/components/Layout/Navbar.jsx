@@ -12,7 +12,7 @@ import "./Navbar.css";
 
 const MyNavbar = () => {
   return (
-    <Navbar bg="warning" expand="lg" style={{width:"1515px", position:"absolute"}}>
+    <Navbar bg="warning" expand="lg" style={{width:"100vw", position:"absolute"}}>
       <Navbar.Brand href="/">Cooking Instruction Made Easy</Navbar.Brand>
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">

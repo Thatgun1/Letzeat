@@ -1,8 +1,29 @@
-.Card-box1{
+.Card-box1 {
 float:left;
 margin-right: 500px;
 width: 200px;
 height: 500px;
+}
+
+.Card-box2 {
+    float:left;
+    margin-right: 500px;
+    width: 200px;
+    height: 500px;
+}
+
+.Card-box3 {
+    float:left;
+    margin-right: 500px;
+    width: 200px;
+    height: 500px;
+}
+
+.Card-box4 {
+    float:left;
+    margin-right: 500px;
+    width: 200px;
+    height: 500px;
 }
 
 .Card-descr{
@@ -10,9 +31,34 @@ height: 500px;
     width:250px;
     height:250px;
 }
-.Card-image{
+.Card-image1{
     background-image: url('./CardsImages/ChixQuesa.jpg');
     background-repeat: no-repeat;
     width:250px;
     height:250px;
+    vertical-align: middle;
+}
+
+.Card-image2{
+    background-image: url('./CardsImages/CucSambal.jpg');
+    background-repeat: no-repeat;
+    width:250px;
+    height:250px;
+    float: left;
+}
+
+.Card-image3{
+    background-image: url('./CardsImages/GarBread.jpg');
+    background-repeat: no-repeat;
+    width:250px;
+    height:250px;
+    float: left;
+}
+
+.Card-image4{
+    background-image: url('./CardsImages/Tenderloin.jpg');
+    background-repeat: no-repeat;
+    width:250px;
+    height:250px;
+    float: left;
 }

@@ -13,7 +13,7 @@ const AboutPage = () => {
         
         <MyNavbar />
         </header>
-        <h1 className="About-heading"></h1>
+        <h1 className="About-heading">.</h1>
       
       <body className="About-body">
         <h3 style={{ textAlign: "center" }}>
